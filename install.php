@@ -374,11 +374,11 @@ elseif($page == 'step')
 			$newPlayer->setVocation(0);
 			$newPlayer->setHealth(185);
 			$newPlayer->setHealthMax(185);
-			$newPlayer->setMana(35);
-			$newPlayer->setManaMax(35);
+			$newPlayer->setMana(90);
+			$newPlayer->setManaMax(90);
 			$newPlayer->setTown(1);
 			$newPlayer->setSoul(100);
-			$newPlayer->setCapacity(420);
+			$newPlayer->setCapacity(470);
 			$newPlayer->setSave(1);
 			$newPlayer->setStamina(2520);
 			$newPlayer->setLookType(128);
